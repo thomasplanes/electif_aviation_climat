@@ -1,4 +1,4 @@
-Year;RPK [millions passenger-kilometer];ASK [millions seat-kilometer];Energy [MJ];CO2 [MtCO2]
+Year;ASK [millions seat-kilometer];RPK [millions passenger-kilometer];Energy [MJ];CO2 [MtCO2]
 1973;1107532;656426;5107896000000;365.68
 1974;1178880;697285;4940424000000;353.69
 1975;1269815;763762;4940424000000;353.69
